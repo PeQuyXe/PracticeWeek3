@@ -1,2 +1,0 @@
-"use strict";(self.webpackChunkmulti_pages=self.webpackChunkmulti_pages||[]).push([[402],{402:(e,s,a)=>{a.r(s),a.d(s,{default:()=>l});a(43);var u=a(579);const l=()=>(0,u.jsx)("div",{className:"p-4",children:"About Page"})}}]);
-//# sourceMappingURL=402.95b83f07.chunk.js.map
